@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="658375b3-539e-43c2-b7ac-7a690f65e833" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Brief/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Brief/src/functions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boucles/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Brief/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boucles/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Brief/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boucles/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Brief/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boucles/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Brief/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boucles/Boucles.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boucles/out/production/Boucles/Boucle.class" beforeDir="false" afterPath="$PROJECT_DIR$/Brief/out/production/Boucles/Boucle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boucles/out/production/Boucles/Collection.class" beforeDir="false" afterPath="$PROJECT_DIR$/Brief/out/production/Boucles/Collection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boucles/out/production/Boucles/Function.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boucles/src/Boucle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Brief/src/Boucle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boucles/src/Collection.java" beforeDir="false" afterPath="$PROJECT_DIR$/Brief/src/Collection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boucles/src/Function.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TVA/src/tva.java" beforeDir="false" afterPath="$PROJECT_DIR$/TVA/src/tva.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1l7y3LsZYA9K6m1MV0UJbNmKiJq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="tva" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tva" />
+      <module name="TVA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.tva" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="658375b3-539e-43c2-b7ac-7a690f65e833" name="Default Changelist" comment="" />
+      <created>1606962226848</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606962226848</updated>
+      <workItem from="1606962228408" duration="322000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
